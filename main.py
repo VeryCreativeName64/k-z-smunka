@@ -1,1 +1,2 @@
 print("sus")
+print("szia")
