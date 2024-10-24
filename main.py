@@ -1,5 +1,7 @@
 print("sus")
 print("szia")
+print("hello")
+print("w")
 print("csumi")
 print("hello")
 print("suck")
